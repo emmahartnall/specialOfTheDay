@@ -9,5 +9,5 @@ public class SpecialOfTheDayApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpecialOfTheDayApplication.class, args);
 	}
-
-}
+	//	System.out.printf("hello from the special of the day app");
+	}
